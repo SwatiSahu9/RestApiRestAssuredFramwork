@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2"
+          preserve-order="true"
+          name="C:/Users/shree/IdeaProjects/restAssueredRestApiFramework/src/test/java/com/testautomation/apitesting/tests/AllureReportGeneration.java">
+        <classes>
+            <class name="com.testautomation.apitesting.tests.AllureReportGeneration">
+                <methods>
+                    <include name="eneToendTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,14 @@
+com\testautomation\apitesting\utils\FileNameConstant.class
+com\testautomation\apitesting\tests\AllureReportGeneration.class
+com\testautomation\apitesting\tests\PostAPIRequestUsingFile.class
+com\testautomation\apitesting\tests\PostApiRequest.class
+com\testautomation\apitesting\tests\Pract.class
+com\tests\automation\apitesting\pojos\BookingDates.class
+com\testautomation\apitesting\tests\PostAPIRequestUsingPojo.class
+com\testautomation\apitesting\tests\PutApiRequest.class
+com\testautomation\apitesting\utils\BaseTest.class
+com\testautomation\apitesting\tests\PatchAPIRequest.class
+com\testautomation\apitesting\tests\GetApiRequest.class
+com\tests\automation\apitesting\pojos\Booking.class
+com\testatomation\apitesting\listener\RestAssuredLisetner.class
+com\testautomation\apitesting\tests\EndToEndTest.class

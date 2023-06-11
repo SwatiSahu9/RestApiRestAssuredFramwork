@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-29T11:20:29Z" name="All Test Suite" finished-at="2023-05-29T11:21:02Z" duration-ms="32328">
+    <groups>
+    </groups>
+    <test started-at="2023-05-29T11:20:29Z" name="C:/Users/shree/IdeaProjects/restAssueredRestApiFramework/src/test/java/com/testautomation/apitesting/tests/AllureReportGeneration.java" finished-at="2023-05-29T11:21:02Z" duration-ms="32328">
+      <class name="com.testautomation.apitesting.tests.AllureReportGeneration">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testautomation.apitesting.tests.AllureReportGeneration@3c380bd8]" started-at="2023-05-29T11:20:29Z" name="beforeMethod" finished-at="2023-05-29T11:20:31Z" duration-ms="1953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="eneToendTest()[pri:0, instance:com.testautomation.apitesting.tests.AllureReportGeneration@3c380bd8]" started-at="2023-05-29T11:20:32Z" name="eneToendTest" description="end to end Api testing" finished-at="2023-05-29T11:21:02Z" duration-ms="29945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eneToendTest -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.testautomation.apitesting.tests.AllureReportGeneration@3c380bd8]" started-at="2023-05-29T11:21:02Z" name="afterMethod" finished-at="2023-05-29T11:21:02Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=eneToendTest status=SUCCESS method=AllureReportGeneration.eneToendTest()[pri:0, instance:com.testautomation.apitesting.tests.AllureReportGeneration@3c380bd8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.testautomation.apitesting.tests.AllureReportGeneration -->
+    </test> <!-- C:/Users/shree/IdeaProjects/restAssueredRestApiFramework/src/test/java/com/testautomation/apitesting/tests/AllureReportGeneration.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
